@@ -85,14 +85,14 @@
 	</classpathentry>
 	<classpathentry kind="src" path="/JasperReportsTools"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="/tools/lib/jcommon-1.0.18.jar"/>
+	<classpathentry kind="lib" path="/tools/lib/jfreechart-1.0.15.jar"/>
+	<classpathentry kind="lib" path="/tools/lib/commons-io.jar"/>
+	<classpathentry kind="lib" path="/tools/lib/poi-3.9-20121203.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
 		<attributes>
 			<attribute name="owner.project.facets" value="java"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/tools/lib/jcommon-1.0.18.jar"/>
-	<classpathentry kind="lib" path="/tools/lib/jfreechart-1.0.15.jar"/>
-	<classpathentry kind="lib" path="/tools/lib/commons-io.jar"/>
-	<classpathentry kind="lib" path="/tools/lib/poi-3.9-20121203.jar"/>
 	<classpathentry kind="output" path="build"/>
 </classpath>
